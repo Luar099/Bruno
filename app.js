@@ -1,10 +1,4 @@
 
-/* =============================================
-   B7 SUPLEMENTOS — app.js
-   SPA puro em JavaScript vanilla
-   ============================================= */
-
-// ── DADOS DE PRODUTOS ────────────────────────────────
 const DEFAULT_PRODUCTS = [
   {
     id: 1, name: "Whey Protein Concentrado 900g", brand: "Max Titanium",
